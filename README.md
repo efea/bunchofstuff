@@ -1,2 +1,2 @@
 # bunchofstuff
-various algorithms, data structures, parallel programming etc.
+various algorithms, data structures, solutions etc.
