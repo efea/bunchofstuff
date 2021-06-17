@@ -2,8 +2,8 @@
 various algorithms, data structures, solutions etc.
 
 3wayquickparallelquicksort -> sorts 100.000.000 integers in 0.691025 s.
-peakFinder -> Testing whether your log-time algorithm uses at most 3*log(n) comparisons
-              on arrays with 1000000 elements and only one peak
+peakFinder -> Testing whether log-time Peak finding algorithm uses at most 3*log(n) comparisons
+              on arrays with 1.000.000 elements and only one peak
               Executing test 1
               Passed
               Executing test 2
