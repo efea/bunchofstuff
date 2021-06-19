@@ -22,6 +22,6 @@ peakFinder
         
         -5.79 times faster than the approach based on scala.util.Array.sort on almost sorted sequences of 1,000,000 integers.
         
-        -1.47 times faster than the approach based on scala.util.Array.sort on sequences of 1,000,000 small integers(meaning, there are lots of values that are              same).
+        -1.47 times faster than the approach based on scala.util.Array.sort on sequences of 1,000,000 small integers(meaning, there are lots of values that are  same).
 
          
