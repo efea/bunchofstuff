@@ -25,3 +25,4 @@ peakFinder
         -1.47 times faster than the approach based on scala.util.Array.sort on sequences of 1,000,000 small integers(meaning, there are lots of values that are  same).
 
          
+Union Find with Disjoint Sets data structure implemeneted. Uses both rank balancing and path compression.
