@@ -26,3 +26,8 @@ peakFinder
 
          
 Union Find with Disjoint Sets data structure implemeneted. Uses both rank balancing and path compression.
+
+Find shortest missing string    
+
+  `-Finds the shortest missing string over alpabet a. This implementation assumes you have a function that can generate all possible strings of length l over an alphabet a with m symbols. (That is done with the class StringEnumerator in this implementation) 
+  -HashSet was used for the implementation. Compared to a naive approach of iterating over the possible substrings, HashSet was tested to be 12.852 times faster in the average of 10 tests.
