@@ -34,3 +34,7 @@ various algorithms, data structures, solutions etc.
 
 * Minimum spanning tree generator.
   `Prim's algorithm was used for the mst generation. This piece of code assumes you already have a 'Graph' class where you generate a graph with G = (V, E, w) where V is the set of vertices, E is the set of edges and w is the corresponding weights to these edges. mstGenerator will return a set with the data (v,distance, parent(v)). Testing mstGenerator 10 times on random graphs with 100.000 vertices and 500.000 edges gave performance average of 0.9148642315 seconds. 
+  
+  
+  * k-coloring solver. 
+ `given a graph G and an integer k, solves if G can be colored with k different colors. Returns mapping from vertices to colors if possible. if it's not, returns false. Recursively backtrack searches all possible colorings. `
